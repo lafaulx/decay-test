@@ -1,0 +1,3 @@
+# Decay test
+
+Works somehow
